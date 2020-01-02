@@ -1,10 +1,10 @@
 def welcome
-  puts "welcome"
+  puts "Welcome to the Blackjack Table"
   binding.rb
 end
 
 def deal_card
-  puts "Deal card"
+  puts ""
 end
 
 def display_card_total
