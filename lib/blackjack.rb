@@ -1,5 +1,5 @@
 def welcome
-  puts "welcome"
+  puts "welcomed"
 end
 
 def deal_card
