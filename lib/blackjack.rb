@@ -1,5 +1,6 @@
 def welcome
   puts "welcomed"
+  binding.rb
 end
 
 def deal_card
