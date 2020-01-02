@@ -3,7 +3,8 @@ def welcome
 end
 
 def deal_card
-  puts (card).to be > 0
+  puts "deal card"
+  binding.rb
 end
 
 def display_card_total
