@@ -4,7 +4,7 @@ def welcome
 end
 
 def deal_card
-  puts ""
+  puts 
 end
 
 def display_card_total
