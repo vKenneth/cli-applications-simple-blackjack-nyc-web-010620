@@ -34,14 +34,3 @@ end
 def invalid_command
   puts "invalid command"
 end
-
-#####################################################
-# get every test to pass before coding runner below #
-#####################################################
-
-def runner
-  welcome
-  ask_name
-  name = "store name"
-  personalized_welcome(name)
-end
