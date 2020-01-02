@@ -1,5 +1,5 @@
 def welcome
-  puts "welcomed"
+  puts "welcome"
   binding.rb
 end
 
