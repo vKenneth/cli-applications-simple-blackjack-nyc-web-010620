@@ -1,6 +1,5 @@
 def welcome
   puts "Welcome to the Blackjack Table"
-  binding.rb
 end
 
 def deal_card
