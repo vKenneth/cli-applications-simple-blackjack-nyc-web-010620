@@ -3,7 +3,7 @@ def welcome
 end
 
 def deal_card
-  puts { display_card_total(7) }.to_not raise_error
+ { display_card_total(7) }.to_not raise_error
 end
 
 def display_card_total
