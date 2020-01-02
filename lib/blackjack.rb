@@ -1,37 +1,37 @@
 def welcome
-  # code #welcome here
+  puts "welcome"
 end
 
 def deal_card
-  # code #deal_card here
+  puts "Deal card"
 end
 
 def display_card_total
-  # code #display_card_total here
+  puts "card total"
 end
 
 def prompt_user
-  # code #prompt_user here
+  puts "user"
 end
 
 def get_user_input
-  # code #get_user_input here
+  puts "get user imput"
 end
 
 def end_game
-  # code #end_game here
+  puts "end game"
 end
 
 def initial_round
-  # code #initial_round here
+  puts "round intial"
 end
 
 def hit?
-  # code hit? here
+  puts "hit"
 end
 
 def invalid_command
-  # code invalid_command here
+  puts "invalid command"
 end
 
 #####################################################
@@ -39,6 +39,8 @@ end
 #####################################################
 
 def runner
-  # code runner here
+  welcome
+  ask_name
+  name = "store name"
+  personalized_welcome(name)
 end
-    
