@@ -24,7 +24,7 @@ def end_game
 end
 
 def initial_round
-  puts "round intial!"
+  puts "round intial"
 end
 
 def hit?
