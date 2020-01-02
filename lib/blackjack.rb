@@ -27,7 +27,7 @@ def initial_round
   puts "round intial"
 end
 
-def hit?
+def hit
   puts "hit"
 end
 
