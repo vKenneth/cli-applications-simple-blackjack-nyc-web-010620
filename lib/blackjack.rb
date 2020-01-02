@@ -3,7 +3,7 @@ def welcome
 end
 
 def deal_card
-  puts "deal card"
+  puts 
   binding.rb
 end
 
