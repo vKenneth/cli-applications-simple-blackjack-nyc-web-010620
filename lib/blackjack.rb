@@ -27,8 +27,8 @@ def initial_round
   puts "round intial"
 end
 
-def hit
-  puts "hit"
+def hit?
+  puts "hit?"
 end
 
 def invalid_command
